@@ -1,16 +1,37 @@
-## Hi there 👋
+# Grigory Poslov
 
-<!--
-**Poslov/Poslov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+QA Engineer focused on test automation, API testing and quality engineering.
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- UI and API test automation
+- Java
+- Selenide
+- Selenium
+- JUnit
+- REST Assured
+- Gradle
+- GitLab CI/CD
+- Allure
+- Chrome/Chromium extension development
+
+## Current project
+
+### Selector Helper
+
+Chrome/Chromium extension for selecting DOM elements and generating stable selectors for:
+
+- CSS
+- XPath
+- Selenide
+- Selenium
+
+Currently preparing the project for public release.
+
+## Tech stack
+
+`Java` · `Selenide` · `Selenium` · `JUnit` · `REST Assured` · `Gradle` · `Git` · `GitLab CI/CD` · `Allure`
+
+## GitHub
+
+Building tools, automation and QA-related projects.
