@@ -1,37 +1,29 @@
 # Grigory Poslov
 
-QA Engineer focused on test automation, API testing and quality engineering.
+QA Engineer, занимаюсь автоматизацией тестирования, API testing и инструментами для QA.
 
-## About me
+Основной стек — Java, Selenide, Selenium, JUnit, REST Assured, Gradle, GitLab CI/CD и Allure.
 
-- UI and API test automation
-- Java
-- Selenide
-- Selenium
-- JUnit
-- REST Assured
-- Gradle
-- GitLab CI/CD
-- Allure
-- Chrome/Chromium extension development
+## Сейчас в фокусе
 
-## Current project
+- UI automation
+- API testing
+- CI/CD и тестовая инфраструктура
+- Инструменты, упрощающие работу QA
+
+## Проекты
 
 ### Selector Helper
 
-Chrome/Chromium extension for selecting DOM elements and generating stable selectors for:
+Chrome/Chromium-расширение для выбора DOM-элементов и генерации стабильных селекторов:
 
 - CSS
 - XPath
 - Selenide
 - Selenium
 
-Currently preparing the project for public release.
+[Открыть репозиторий](https://github.com/Poslov/selector-helper)
 
-## Tech stack
+---
 
-`Java` · `Selenide` · `Selenium` · `JUnit` · `REST Assured` · `Gradle` · `Git` · `GitLab CI/CD` · `Allure`
-
-## GitHub
-
-Building tools, automation and QA-related projects.
+[English version](README.en.md)
